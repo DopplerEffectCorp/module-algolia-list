@@ -1,0 +1,25 @@
+{
+  "name": "algolia-list",
+  "version": "0.0.0",
+  "description": "Doppler Effect Algolia Lis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DopplerEffectCorp/module-algolia-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DopplerEffectCorp/module-algolia-list/issues"
+  },
+  "homepage": "https://github.com/DopplerEffectCorp/module-algolia-list#readme",
+  "dependencies": {
+    "@angular/common": "^4.2.2",
+    "@angular/core": "^4.2.2",
+    "rxjs": "^5.4.0",
+    "zone.js": "^0.8.12"
+  }
+}
