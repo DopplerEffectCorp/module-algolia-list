@@ -29,10 +29,10 @@ export class AlgoliaListComponent implements OnInit {
     }
 
     initHelper() {
-        this.algoliaHelper.setQueryParameter('hitsPerPage', this.hitsPerPage).search();
-        this.algoliaHelper.on('result', (value) => {
-            console.log('valueIN', value.hits);
-        });
+    //     this.algoliaHelper.setQueryParameter('hitsPerPage', this.hitsPerPage).search();
+    //     this.algoliaHelper.on('result', (value) => {
+    //         console.log('valueIN', value.hits);
+    //     });
     }
 
 }
